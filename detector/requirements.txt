@@ -1,0 +1,13 @@
+requests
+numpy
+scikit-learn
+tensorflow
+pandas
+PyPDF2
+python-dotenv
+psycopg2-binary
+Flask
+Flask-CORS
+joblib
+beautifulsoup4
+lxml
